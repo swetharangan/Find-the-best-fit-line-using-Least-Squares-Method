@@ -7,13 +7,14 @@ To implement univariate Linear Regression to fit a straight line using least squ
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
 
 ## Algorithm
-1.Gather your data points. You need two sets of values: one for the input (independent variable, X) and other for the output (dependent variable, Y).
-2.Set initial values for the parameters of the model, such as the slope 𝑚 intercept b of the regression line. You can start by initializing these to zero or small random value
-3.For any input x, the model predicts and output y_pred
-4.For each data point, calculate the error between the actual output y and the predicted output y_pred
-5Adjust the values of m and b to minimize the error
-6.Iterate over the dataset multiple times repead=ting steps 3-5 until the parameters stabilize and error become sufficiently small
-7.Once the model has been trained use the final values of m and b to predict the output for new input 
+1. Gather your data points. You need two sets of values: one for the input (independent variable, X) and other for the output (dependent variable, Y).
+2. Set initial values for the parameters of the model, such as the slope 𝑚
+intercept b of the regression line. You can start by initializing these to zero or small random value
+3. For any input x, the model predicts and output y_pred
+4. For each data point, calculate the error between the actual output y and the predicted output y_pred
+5. Adjust the values of m and b to minimize the error
+6. Iterate over the dataset multiple times repead=ting steps 3-5 until the parameters stabilize and error become sufficiently small
+7. Once the model has been trained use the final values of m and b to predict the output for new input x
 
 ## Program:
 /*
