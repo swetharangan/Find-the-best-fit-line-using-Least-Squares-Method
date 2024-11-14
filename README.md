@@ -51,8 +51,10 @@ plt.show()
 
 
 ## Output:
-"C:\Users\TEMP.DESKTOP-EC5LV4E.013\Desktop\ml output\expt 1.png"
-"C:\Users\TEMP.DESKTOP-EC5LV4E.013\Desktop\ml output\exp1.png"
+![expt 1](https://github.com/user-attachments/assets/3ebca8e6-eed9-426e-8509-9b8f8323cf56)
+
+![exp1](https://github.com/user-attachments/assets/59d31b61-9918-4ac3-8392-85cdeba0c32d)
+
 
 
 
