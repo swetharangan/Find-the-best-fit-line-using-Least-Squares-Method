@@ -17,10 +17,11 @@ intercept b of the regression line. You can start by initializing these to zero 
 7. Once the model has been trained use the final values of m and b to predict the output for new input x
 
 ## Program:
+```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: swetha R
-RegisterNumber: 212223040221
+Developed by: Preethi S
+RegisterNumber: 212223230157
 
 import numpy as np
 import matplotlib.pyplot as plt
@@ -50,14 +51,11 @@ plt.ylabel("Score")
 plt.title("Hours VS Scores")
 plt.show()
 
-
+```
 ## Output:
 ![expt 1](https://github.com/user-attachments/assets/3ebca8e6-eed9-426e-8509-9b8f8323cf56)
 
 ![exp1](https://github.com/user-attachments/assets/59d31b61-9918-4ac3-8392-85cdeba0c32d)
-
-
-
 
 ## Result:
 Thus the univariate Linear Regression was implemented to fit a straight line using least squares using python programming.
