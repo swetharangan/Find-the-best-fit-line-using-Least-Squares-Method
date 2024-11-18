@@ -17,8 +17,8 @@ intercept b of the regression line. You can start by initializing these to zero 
 ```
 /*
 Program to implement univariate Linear Regression to fit a straight line using least squares.
-Developed by: Preethi S
-RegisterNumber: 212223230157
+Developed by: swetha.R
+RegisterNumber: 212223010221
 
 import numpy as np
 import matplotlib.pyplot as plt
